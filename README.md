@@ -10,3 +10,4 @@ A countdown timer implemented in C using a graphical 7-segment digit style, comp
 
 ## 🖥️ How It Looks
 
+![Example Output](image.png)
